@@ -1,6 +1,6 @@
 
 # Finalmente, o bendito projeto!
-*Letícia Aparecida de Oliveira Burlinski*
+*Letícia Aparecida de Oliveira Burlinski* —
   Nesse projeto, se pretende montar um site no estilo blog pessoal.
 - Responsibilidade;
 - Links em formato de botões para direcionamento de nossas redes sociais;
