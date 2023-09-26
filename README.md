@@ -8,3 +8,5 @@
 - Modo noturno.
 
   O objetivo é tornar o site limpo e fácil de se navegar, trazendo algo leve e bonito para o utilizador. Espero que gostem!
+
+  edit 1
